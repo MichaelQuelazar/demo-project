@@ -1,3 +1,3 @@
 # demo-project
-personel small projects/idea can be found
+personal small projects/idea can be found here
 updates will be irregular
